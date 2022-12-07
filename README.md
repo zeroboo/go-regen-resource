@@ -1,2 +1,3 @@
-# go-regen-resource
-Resources that can be regenerated when time passed like health, character's energy
+# regen-resource
+Go package to model regenerative resources.
+Regenerative resources are resources that can regenerate when time passed:  health, character's energy
